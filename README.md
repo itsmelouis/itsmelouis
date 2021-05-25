@@ -15,8 +15,7 @@
 
 **Working with:**
 
-<img src="https://framalibre.org/sites/default/files/leslogos/Visual_Studio_Code_1.18_icon.png" width=30>
-<img src="https://image.flaticon.com/icons/png/512/25/25231.png" width=30>
+<img src="https://framalibre.org/sites/default/files/leslogos/Visual_Studio_Code_1.18_icon.png" width=30> <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width=30>
 
 *Gojou fan*
 
