@@ -3,9 +3,16 @@
 <div align="center">
 
 ![Kozou's stats](https://github-readme-stats.vercel.app/api?username=kozou4ever&show_icons=true&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/379362415428632576)](https://discord.com/users/379362415428632576)
 
 </div>
+
+
 
 
 **Currently working on:**
@@ -27,6 +34,10 @@
 
 <img src="https://framalibre.org/sites/default/files/leslogos/Visual_Studio_Code_1.18_icon.png" width=30> <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width=30>
 
-*Gojou fan*
 
-<img align="center" src="https://i.imgur.com/f83frkB.gif" width=350>
+<div align="center">
+
+*Gojou fan*
+<img src="https://i.imgur.com/f83frkB.gif" width=350>
+
+</div>
