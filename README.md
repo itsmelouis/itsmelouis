@@ -25,5 +25,5 @@ public sealed class ItsLouis : SoftwareEngineer
 <br />
 
 <div align="center">
-    <img src="https://lanyard.cnrad.dev/api/379362415428632576?hideProfile=true" alt="Discord Presence">
+    <img src="https://spotify.itslouis.dev/banner.svg" alt="Currently playing on Spotify">
 </div>
