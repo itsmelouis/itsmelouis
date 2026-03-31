@@ -1,5 +1,6 @@
 <p align="center">
   <samp>
+    <a href="https://itslouis.dev">itslouis.dev</a>
     <a href="mailto:me@itslouis.dev">me@itslouis.dev</a> .
     <a href="https://linkedin.com/in/louis-floquet">linkedin</a> .
     <a href="https://github.com/itsmelouis">github</a>
