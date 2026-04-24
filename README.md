@@ -18,7 +18,7 @@ public sealed class ItsLouis : SoftwareEngineer
     public string[] Stack => ["C#", ".NET", "Vue", "Nuxt", "TypeScript", "SQL"];
     public string[] Passions => ["Everything IT", "Cinema", "Music"];
     
-    public bool OpenToOpportunities => false; // Graduating soon
+    public bool OpenToOpportunities => true; // Graduating soon
 }
 ```
 
