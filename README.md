@@ -12,13 +12,13 @@ public sealed class ItsLouis : SoftwareEngineer
 {
     public string Location => "France";
     public string Status => "Final year Master's student";
-    public string CurrentRole => "Apprentice @ Altazion";
-    public string Description => "SWE to be, in love with IT, music and the 7th art";
+    public string CurrentRole => "Software Engineer @ Ponera";
+    public string Description => "SWE, in love with IT, music and the 7th art";
     
     public string[] Stack => ["C#", ".NET", "Vue", "Nuxt", "TypeScript", "SQL"];
     public string[] Passions => ["Everything IT", "Cinema", "Music"];
     
-    public bool OpenToOpportunities => true; // Graduating soon
+    public bool OpenToOpportunities => true;
 }
 ```
 
